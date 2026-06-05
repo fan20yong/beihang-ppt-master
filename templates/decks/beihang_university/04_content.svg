@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#F7FAFD"/>
+  <rect x="0" y="0" width="1280" height="82" fill="#003B7A"/>
+  <rect x="0" y="82" width="1280" height="5" fill="#C8102E"/>
+  <text x="72" y="52" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">Page Title</text>
+  <text x="1110" y="52" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" fill="#C8D8EA">BEIHANG</text>
+  <g transform="translate(72 128)">
+    <rect x="0" y="0" width="516" height="206" fill="#FFFFFF" stroke="#D8E2EE"/>
+    <rect x="0" y="0" width="8" height="206" fill="#2C7CC3"/>
+    <text x="28" y="44" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="22" font-weight="700" fill="#10233F">Key Finding</text>
+    <text x="28" y="84" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="16" fill="#24364E">Concise evidence statement or research insight.</text>
+    <text x="28" y="132" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="34" font-weight="700" fill="#003B7A">00.0%</text>
+    <text x="150" y="132" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="14" fill="#66758A">metric label</text>
+  </g>
+  <g transform="translate(72 370)">
+    <rect x="0" y="0" width="516" height="220" fill="#FFFFFF" stroke="#D8E2EE"/>
+    <text x="28" y="42" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="21" font-weight="700" fill="#10233F">Discussion Points</text>
+    <circle cx="32" cy="82" r="4" fill="#C8102E"/>
+    <text x="50" y="88" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="16" fill="#24364E">Point one with precise technical wording</text>
+    <circle cx="32" cy="124" r="4" fill="#C8102E"/>
+    <text x="50" y="130" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="16" fill="#24364E">Point two with evidence or constraint</text>
+    <circle cx="32" cy="166" r="4" fill="#C8102E"/>
+    <text x="50" y="172" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="16" fill="#24364E">Point three with next-step implication</text>
+  </g>
+  <g transform="translate(640 128)">
+    <rect x="0" y="0" width="568" height="462" fill="#FFFFFF" stroke="#D8E2EE"/>
+    <rect x="34" y="36" width="500" height="330" fill="#EEF3F8" stroke="#C7D5E6" stroke-dasharray="8 8"/>
+    <path d="M68 328 C180 210 320 230 490 82" fill="none" stroke="#2C7CC3" stroke-opacity="0.55" stroke-width="3"/>
+    <circle cx="492" cy="82" r="6" fill="#C8102E"/>
+    <text x="188" y="210" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#66758A">Figure / Diagram Area</text>
+    <text x="34" y="412" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" fill="#66758A">Caption or source note</text>
+  </g>
+  <line x1="72" y1="654" x2="1120" y2="654" stroke="#D8E2EE"/>
+  <text x="72" y="676" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="11" fill="#66758A">Beihang academic report template</text>
+  <text x="1130" y="676" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="11" fill="#66758A">04</text>
+</svg>

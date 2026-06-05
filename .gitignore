@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+projects/
+exports/
+backup/
+tmp/
+*_template_import/

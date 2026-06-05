@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#F7FAFD"/>
+  <rect x="0" y="0" width="210" height="720" fill="#003B7A"/>
+  <rect x="182" y="80" width="8" height="110" fill="#C8102E"/>
+  <path d="M240 640 C480 500 760 500 1140 170" fill="none" stroke="#2C7CC3" stroke-opacity="0.14" stroke-width="2"/>
+  <text x="72" y="96" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">CONTENTS</text>
+  <text x="72" y="126" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="14" fill="#BFD1E6">Report Outline</text>
+  <g font-family="Microsoft YaHei, SimHei, Arial, sans-serif">
+    <text x="280" y="126" font-size="32" font-weight="700" fill="#10233F">Agenda</text>
+    <rect x="280" y="152" width="96" height="4" fill="#C8102E"/>
+    <g transform="translate(280 224)">
+      <text x="0" y="0" font-size="30" font-weight="700" fill="#003B7A">01</text>
+      <text x="78" y="0" font-size="23" font-weight="700" fill="#24364E">Background and Motivation</text>
+      <line x1="78" y1="28" x2="900" y2="28" stroke="#D8E2EE"/>
+    </g>
+    <g transform="translate(280 316)">
+      <text x="0" y="0" font-size="30" font-weight="700" fill="#003B7A">02</text>
+      <text x="78" y="0" font-size="23" font-weight="700" fill="#24364E">Method, Model, and Data</text>
+      <line x1="78" y1="28" x2="900" y2="28" stroke="#D8E2EE"/>
+    </g>
+    <g transform="translate(280 408)">
+      <text x="0" y="0" font-size="30" font-weight="700" fill="#003B7A">03</text>
+      <text x="78" y="0" font-size="23" font-weight="700" fill="#24364E">Results and Discussion</text>
+      <line x1="78" y1="28" x2="900" y2="28" stroke="#D8E2EE"/>
+    </g>
+    <g transform="translate(280 500)">
+      <text x="0" y="0" font-size="30" font-weight="700" fill="#003B7A">04</text>
+      <text x="78" y="0" font-size="23" font-weight="700" fill="#24364E">Next Steps</text>
+      <line x1="78" y1="28" x2="900" y2="28" stroke="#D8E2EE"/>
+    </g>
+  </g>
+  <text x="1130" y="664" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="12" fill="#66758A">02</text>
+</svg>

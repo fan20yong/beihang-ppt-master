@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#003B7A"/>
+  <path d="M-40 620 C280 410 620 430 1220 80" fill="none" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="2"/>
+  <path d="M820 0 L1280 0 L1280 720 L1040 720 Z" fill="#0B1F3A" opacity="0.35"/>
+  <text x="88" y="250" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="142" font-weight="700" fill="none" stroke="#FFFFFF" stroke-opacity="0.24" stroke-width="2">01</text>
+  <text x="92" y="356" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="44" font-weight="700" fill="#FFFFFF">Chapter Title</text>
+  <text x="96" y="402" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="20" fill="#C8D8EA">Section subtitle or transition statement</text>
+  <rect x="96" y="446" width="88" height="5" fill="#C8102E"/>
+  <rect x="196" y="446" width="210" height="5" fill="#2C7CC3"/>
+  <g transform="translate(996 552)" fill="none" stroke="#FFFFFF" stroke-opacity="0.22">
+    <circle cx="0" cy="0" r="72"/>
+    <circle cx="0" cy="0" r="38"/>
+    <line x1="-94" y1="0" x2="94" y2="0"/>
+    <line x1="0" y1="-94" x2="0" y2="94"/>
+  </g>
+  <text x="72" y="664" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="12" fill="#C8D8EA">Beihang academic report template</text>
+</svg>

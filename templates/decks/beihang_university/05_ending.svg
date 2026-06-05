@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="endBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EEF3F8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#endBg)"/>
+  <path d="M80 570 C300 430 670 450 1180 160" fill="none" stroke="#2C7CC3" stroke-opacity="0.18" stroke-width="2"/>
+  <rect x="0" y="594" width="1280" height="126" fill="#003B7A"/>
+  <rect x="0" y="588" width="1280" height="6" fill="#C8102E"/>
+  <text x="120" y="262" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="44" font-weight="700" fill="#10233F">Thank You</text>
+  <text x="124" y="312" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="22" fill="#66758A">Questions and discussion</text>
+  <rect x="124" y="350" width="88" height="5" fill="#C8102E"/>
+  <rect x="224" y="350" width="220" height="5" fill="#2C7CC3"/>
+  <g transform="translate(890 196)" fill="none" stroke="#003B7A" stroke-opacity="0.18">
+    <circle cx="0" cy="0" r="112"/>
+    <circle cx="0" cy="0" r="64"/>
+    <line x1="-132" y1="0" x2="132" y2="0"/>
+    <line x1="0" y1="-132" x2="0" y2="132"/>
+  </g>
+  <text x="80" y="666" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" fill="#C8D8EA">Beihang academic report template</text>
+  <text x="1130" y="666" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="13" fill="#C8D8EA">05</text>
+</svg>
